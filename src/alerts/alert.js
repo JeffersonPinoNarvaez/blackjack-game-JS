@@ -20,7 +20,7 @@ const alert = (type, alert) => {
             alert.fire({
                 icon: "error",
                 title: ":(",
-                text: "Sorry, the computer won."
+                text: "Sorry, the machine beat you up! D:"
             });
             break;
         default:
